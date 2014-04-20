@@ -1,0 +1,33 @@
+{
+  "name": "jqb-array-remove",
+  "version": "0.0.1",
+  "description": "remove an element from an array by value",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jQbrick/jqb-array-remove"
+  },
+  "keywords": [
+    "array",
+    "remove",
+    "value",
+    "jqbrick"
+  ],
+  "author": {
+    "name": "Marco Pegoraro",
+    "url": "http://movableapp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jQbrick/jqb-array-remove/issues"
+  },
+  "homepage": "https://github.com/jQbrick/jqb-array-remove",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-mocha-chai-sinon": "~0.0.8",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
